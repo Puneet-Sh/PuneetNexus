@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+puneetnexus_venv/
+venv/
+.env
+
+# User uploads
+documents/*
+!documents/.gitkeep
+
+# IDE/OS files
+.vscode/
+.idea/
+.DS_Store
