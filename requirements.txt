@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pymilvus==2.4.0
-langchain
-sentence-transformers
-python-multipart
