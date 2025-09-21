@@ -1,0 +1,8 @@
+ipykernel
+pandas 
+langchain
+langchain-community
+langchain-openai
+sentence-transformers
+pypdf
+pymupdf
